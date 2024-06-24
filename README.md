@@ -7,4 +7,5 @@ Duration - 1st June 2024 to 30th June 2024
 #Project Overview
 Project- Simple Calculator
 Objective - To calculate simple arithmetic operation
-![Uploading WhatsApp Image 2024-06-24 at 12.57.56_9215f54f.jpg…]()
+![simple calculator](https://github.com/ManishaMahato/CODETECKH-Task1/assets/169278518/84a7a488-a71b-4527-8cfa-c25fc0414674)
+
